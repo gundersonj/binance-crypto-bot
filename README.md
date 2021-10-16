@@ -1,2 +1,2 @@
-# binance-crypto-bot
-Binance Crypto Trading Bot
+# Binance
+ Binance Trading Bot
