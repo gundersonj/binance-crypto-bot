@@ -27,3 +27,4 @@ pip-selfcheck.json
 # jupyter
 .ipynb_checkpoints
 .ipynb
+binance.ipynb
